@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/09/15 23:26:47.000.970,=C:\Users\davi_\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/09/17 00:11:43.000.268,=C:\Users\davi_\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/09/17 00:11:52.000.060,=C:\Users\davi_\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/09/17 00:24:51.000.768,C:\Users\davi_\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.pas=C:\Users\davi_\OneDrive\Documentos\Embarcadero\Studio\Projects\AgendaContatos\unitPrincipal.pas</Transaction>
+    <Transaction>2023/09/17 00:24:51.000.768,C:\Users\davi_\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.dfm=C:\Users\davi_\OneDrive\Documentos\Embarcadero\Studio\Projects\AgendaContatos\unitPrincipal.dfm</Transaction>
+    <Transaction>2023/09/17 00:25:14.000.820,C:\Users\davi_\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\davi_\OneDrive\Documentos\Embarcadero\Studio\Projects\AgendaContatos\unitDB.pas</Transaction>
+    <Transaction>2023/09/17 00:25:14.000.820,C:\Users\davi_\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\davi_\OneDrive\Documentos\Embarcadero\Studio\Projects\AgendaContatos\unitDB.dfm</Transaction>
+    <Transaction>2023/09/17 00:25:28.000.876,C:\Users\davi_\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\davi_\OneDrive\Documentos\Embarcadero\Studio\Projects\AgendaContatos\AgendaContatos.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
